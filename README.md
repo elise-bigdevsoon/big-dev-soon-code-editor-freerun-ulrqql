@@ -12,7 +12,7 @@ Level up your coding skills by building real-world projects with professional de
 
 ## Project brief
 
-Develop a responsive **Code Editor** application that not only allows users to write HTML, CSS, and JS but also provides an instantaneous preview of the code. The application should enable seamless tab navigation, dynamic resizing, and offer a suite of viewing options to enhance the coding experience.
+Develop a responsive **Code Editor** application that not only allows users to write HTML, CSS, kkand JS but also provides an instantaneous preview of the code. The application should enable seamless tab navigation, dynamic resizing, and offer a suite of viewing options to enhance the coding experience.
 
 ### What you will learn
 
